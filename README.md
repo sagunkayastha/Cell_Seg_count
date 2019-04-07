@@ -23,3 +23,4 @@ add training files
 		
 in python_files folder - train_count.npy
 
+<img src =https://raw.githubusercontent.com/sagunkayastha/Cell_Seg_count/master/output/Output.JPG > <br>
